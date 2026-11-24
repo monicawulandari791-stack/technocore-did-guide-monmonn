@@ -1,0 +1,11 @@
+identity.pem
+passphrase.txt
+passphrase*
+*.pem
+*.key
+*.secret
+*.token
+.env
+.venv/
+__pycache__/
+proof.json
