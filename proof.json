@@ -1,0 +1,10 @@
+{
+    "schema": "technocore-contribution-proof-v2",
+    "artifact_url": "https://github.com/monicawulandari791-stack/technocore-did-guide-monmonn",
+    "commit": "f5fe183f31e93c7b395083ce331666562c8f38c0",
+    "did": "did:key:z6MkokrToH1iKdYGVfnDBHGmjbcHkiX6eZPTC4pmuTJ8Nvww",
+    "issued_at": 1795536003,
+    "expires_at": 1803312003,
+    "nonce": "b89f2994c47631d122c7134c30bea9c7",
+    "signature": "lWaFAYYoI_O2oWXJqgeaqtF4LNyj3cCyrT6kUyGL3DOFoUBn5jYrnopWprdnO95c0bZQE98nKCUm0Z6s4lFkCA"
+}
